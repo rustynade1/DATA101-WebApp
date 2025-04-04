@@ -4,7 +4,7 @@ The code/web application portion of our project.
 
 ## How to run:
 1. Run the notebook (either all cells or just the last one)
-2. Go to ```localhost:8555``` on your browser
+2. Go to ```localhost:8560``` on your browser
 
 ## Required libraries:
 - `pandas`
