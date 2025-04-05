@@ -1,7 +1,9 @@
 # DATA101 S11 Group 5 - Interactive Visualization Application and Report
 Members:
-De Leon, Francis Zaccharie Estrera, David Joshua
-Hinolan, Charles Joseph Lapuz, Mari Salvador
+De Leon, Francis Zaccharie 
+Estrera, David Joshua
+Hinolan, Charles Joseph 
+Lapuz, Mari Salvador
 Niu, Jana Charlize
 
 Link: https://github.com/rustynade1/DATA101-WebApp
