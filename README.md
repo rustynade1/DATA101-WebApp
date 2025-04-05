@@ -12,6 +12,7 @@ Lapuz, Mari Salvador
 Niu, Jana Charlize
 
 Link: https://github.com/rustynade1/DATA101-WebApp
+
 A highly detailed visualization suite designed to help real estate buyers through interactive data exploration. 
 
 The system integrates data from comprehensive web-scraping efforts across Philippine property listings, encompassing over 3,000 properties with detailed metrics on location, pricing, dimensions, and amenities.
