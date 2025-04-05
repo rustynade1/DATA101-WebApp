@@ -27,5 +27,6 @@ The system integrates data from comprehensive web-scraping efforts across Philip
 - `sklearn`
 - `plotly`
 - `matplotlib`
+- `seaborn`
 - `jupyter_dash`
 - `dash`
